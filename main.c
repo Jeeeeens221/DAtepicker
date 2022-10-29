@@ -286,7 +286,7 @@ int out(){
 int main() {
     int mussevalg, cheapexpfre;
 
-    printf("hi mouse\ndo you wanna stay in or go out?\n(to stay in type 1 and to go out type 2)\n(if you don't care whether it's in or out type 3)\n");
+    printf("hi mouse <3\ndo you wanna stay in or go out?\n(to stay in type 1 and to go out type 2)\n(if you don't care whether it's in or out type 3)\n");
 
         scanf("%d", &mussevalg);
 
